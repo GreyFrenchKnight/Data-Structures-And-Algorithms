@@ -132,8 +132,8 @@ arr[] = {3,0,0,2,0,4}
 Output:
 10
 ```
-![TrappingRainWater](https://github.com/GreyFrenchKnight/Data-Structures-And-Algorithms/blob/f39ebfb10bc73b8dcd36dbef4f5a52e218312481/Images/Trapping%20Rain%20Water.png)
 
+![TrappingRainWater](https://github.com/GreyFrenchKnight/Data-Structures-And-Algorithms/blob/f39ebfb10bc73b8dcd36dbef4f5a52e218312481/Images/Trapping%20Rain%20Water.png)
 * Solution:
 ```
 class Solution:
